@@ -5,7 +5,6 @@
 - 😄 Pronouns: he/him
 
   <details>
-<summary>My top THINGS-TO-RANK</summary>
 
 ⚡ Fun fact: I used to be a Brownie and Guide badge tester.
 
