@@ -5,9 +5,9 @@
 - 😄 Pronouns: he/him
 
   <details>
-
+<summary>
 ⚡ Fun fact: I used to be a Brownie and Guide badge tester.
-
+</summary>
 </details>
 <!---
 kjawltd/kjawltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
