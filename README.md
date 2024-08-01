@@ -1,6 +1,7 @@
+- ** Kenneth Whyte - Director KJAW Ltd **
 - 👋 Hi, I’m Kenneth
-- 👀 I’m a technical writer interested in telling stories about software.
-- 🌱 I’m currently learning how to write docs in Github
+- 👀 *I’m a technical writer interested in telling stories about software.*
+- 🌱 _I’m currently learning how to write docs in Github_
 - 💞️ I’m looking to collaborate on writing projects.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a Brownie and Guide badge tester.
