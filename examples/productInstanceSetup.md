@@ -22,30 +22,34 @@ Work through the checklist we’ve included here to make sure you have all the i
 ### Adding an instance
 
 The first action you’ll need to complete is adding an instance. 
-•	Log in to the Admin module to open the dashboard. You’ll see the navigation menu on the left, and current instances listed in the top right panel (Figure 1).
 
-<Screenshot>
-Figure 1: Admin module dashboard
+•	Log in to the **Admin** module to open the dashboard. You’ll see the navigation menu on the left, and current instances listed in the top right panel (**Figure 1**).
 
 **Note**: If the setup was successful, the instance will be marked with a tick, while instances containing errors are marked with a cross.
-- Click **Instances** in the navigation menu to open the instances homepage (Figure 2). 
 
-<Screenshot>
+
+Figure 1: Admin module dashboard
+
+- Click **Instances** in the navigation menu to open the instances homepage (**Figure 2**). 
+
+
 Figure 2: Instances 
 
-- Click **Add instance** to open the pop-up screen where you enter your data (Figure 3).
 
-<Screenshot>
+- Click **Add instance** to open the pop-up screen where you enter your data (**Figure 3**).
+
+
 Figure 3: Add instance
+
 
 - Select **SQL** as the instance type.
 - Enter the instance **Name** you’d like to use.
 
 **Important**: The name will be displayed in every place where the instance is used, so please keep this in mind when choosing it.
- 
-- Enter the database connection details in the **Settings** panel (Figure 4).
 
-<Screenshot>
+- Enter the database connection details in the **Settings** panel (**Figure 4**).
+
+
 Figure 4: Settings
   
 There are two ways to enter connection details. We've included a numbered reference to show you where the values should go, but you'll only need to use one. 
@@ -55,9 +59,9 @@ There are two ways to enter connection details. We've included a numbered refere
 
 **Note**: The username and password you enter here is for your database connection. You won't be able to use your Windows username or password.
 
-- Click **Add instance** when you've entered the connection details. You should see the new instance created in the dashboard (Figure 5).
-  
-<Screenshot>
+- Click **Add instance** when you've entered the connection details. You should see the new instance created in the dashboard (**Figure 5**).
+
+
 Figure 5: Instance created
   
 **Note**: Before configuring your instance, check the tick is displayed beside the instance name.
@@ -65,15 +69,15 @@ Figure 5: Instance created
 ### Configuring an instance
 
 The next action to complete is configuring the instance, to connect up your data with your database.
-- Click **Configurations** in the navigation menu to open the configurations homepage (Figure 6). You’ll see the list of configurations displayed on the page.
+- Click **Configurations** in the navigation menu to open the configurations homepage (**Figure 6**). You’ll see the list of configurations displayed on the page.
 
-<Screenshot>
+
 Figure 6: Configurations
 
-- Click **Add configuration** to open the popup screen (Figure 7).
+- Click **Add configuration** to open the popup screen (**Figure 7**).
 **Note**: Your configuration id is generated automatically, so the ID field will already be populated.
+
   
-<Screenshot>
 Figure 7: Add configuration
 
 - Enter a configuration **Name**.
