@@ -1,3 +1,8 @@
+---
+title: Product Instance Setup | Examples
+weight: 3
+---
+
 ## Product Instance Setup Guide
 
 ### Introduction
