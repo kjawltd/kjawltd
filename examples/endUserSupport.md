@@ -17,11 +17,13 @@ The customer screen displays a summary of 4 levels of customer information.
 
 The screen also contains a list of links to key support modules.
 
-- Support Log – Lists activities for the current and previous support sessions.
-- Network - Displays the current network structure for installed functions.
-- Customer Login – Accesses the customer UI with the same view as the customer.
-- Function Log – Records details of function and service behaviour.
-- Installation Trouble-Shooter - Helps to resolve issues when installing new functions (planned or manual upgrades).
+| Name | Description |
+| ----- | ----- |
+| Support Log | Lists activities for the current and previous support sessions. |
+| Network | Displays the current network structure for installed functions. |
+| Customer Login | Accesses the customer UI with the same view as the customer. |
+| Function Log | Records details of function and service behaviour. |
+| Installation Trouble-Shooter | Helps to resolve issues when installing new functions (planned or manual upgrades). |
 
 ### Security
 
